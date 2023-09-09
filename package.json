@@ -209,12 +209,12 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate"
+      "owner": "qnotes-app",
+      "repo": "qnotes-desktop"
     }
   },
   "collective": {
-    "url": "https://opencollective.com/electron-react-boilerplate-594"
+    "url": "https://github.com/qnotes-app/qnotes-desktop"
   },
   "devEngines": {
     "node": ">=14.x",
